@@ -1,3 +1,4 @@
+.gitignore
 sentiment_accessKeys.csv
 home/models/
 venv/
