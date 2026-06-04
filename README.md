@@ -1,4 +1,7 @@
-# Sentiment Analysis
+<center>
+    <h1> Sentiment Analysis<h1>
+    <img src="assets/sentiment-demo.gif" alt="Sentiment Analysis demo">
+</center>
 
 Sentiment Analysis involves predicting whether a given sentence is positive or negative. This repository was created to understand the performance of different models for sentiment analysis and to gain extensive knowledge in this area.
 
